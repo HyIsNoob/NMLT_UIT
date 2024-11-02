@@ -1,0 +1,5 @@
+﻿D:\ProGram\Microsoft\Visual Studio\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Bai 032.vcxproj, Bai 32.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Bai032.cpp
+D:\UIT\BTNMLT\Source\Bai032\Bai032.cpp(22,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\UIT\BTNMLT\Source\Bai032\Bai032.cpp(22,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Bai032.vcxproj -> D:\UIT\BTNMLT\TheMatrix\x64\Debug\Bai032.exe

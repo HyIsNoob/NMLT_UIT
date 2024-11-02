@@ -1,0 +1,2 @@
+D:\UIT\NhapMonLapTrinh\btvnNMLT\x64\Debug\Bai 085.exe.lastcodeanalysissucceeded
+D:\UIT\NhapMonLapTrinh\btvnNMLT\Bai 085\x64\Debug\NativeCodeAnalysis.read.1.tlog

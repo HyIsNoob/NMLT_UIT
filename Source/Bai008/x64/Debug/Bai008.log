@@ -1,0 +1,3 @@
+﻿D:\ProGram\Microsoft\Visual Studio\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Bai 008.vcxproj, Bai 8.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Bai008.cpp
+  Bai008.vcxproj -> D:\UIT\BTNMLT\TheMatrix\x64\Debug\Bai008.exe

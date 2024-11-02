@@ -1,0 +1,3 @@
+﻿  Bai38.cpp
+D:\UIT\NhapMonLapTrinh\BTVN\Bai 38\Bai38.cpp(12,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Bai 38.vcxproj -> D:\UIT\NhapMonLapTrinh\btnvNMLT\x64\Debug\Bai 38.exe

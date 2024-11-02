@@ -1,0 +1,3 @@
+﻿  Bai22.cpp
+D:\UIT\NhapMonLapTrinh\BTVN\Bai 22\Bai22.cpp(8,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Bai 22.vcxproj -> D:\UIT\NhapMonLapTrinh\btnvNMLT\x64\Debug\Bai 22.exe

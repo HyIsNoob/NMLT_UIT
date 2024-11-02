@@ -1,0 +1,4 @@
+﻿D:\ProGram\Microsoft\Visual Studio\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Bai 044.vcxproj, Bai 44.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Bai044.cpp
+D:\UIT\BTNMLT\Source\Bai044\Bai044.cpp(33,6): warning C4101: 'i': unreferenced local variable
+  Bai044.vcxproj -> D:\UIT\BTNMLT\TheMatrix\x64\Debug\Bai044.exe

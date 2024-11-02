@@ -1,0 +1,4 @@
+﻿D:\ProGram\Microsoft\Visual Studio\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Bai 99.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Bai 99.cpp
+D:\UIT\NhapMonLapTrinh\btvnNMLT\Bai 099\Bai 99.cpp(39,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Bai 099.vcxproj -> D:\UIT\NhapMonLapTrinh\btvnNMLT\x64\Debug\Bai 099.exe
